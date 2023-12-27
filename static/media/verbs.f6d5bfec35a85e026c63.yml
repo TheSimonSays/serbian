@@ -1,0 +1,65 @@
+raditi:
+  content: |
+    ## Работать
+    ### Настоящее время
+    | Лицо        | Форма  | Пример                  | Перевод                  |
+    | ----------- | ------ | ----------------------- | ------------------------ |
+    | Ja          | radim  | Ja radim ovde.          | I work here.             |
+    | Ti          | radiš  | Ti radiš dobro.         | You work well.           |
+    | On/Ona/Ono  | radi   | On radi sa ljudima.     | He works with people.    |
+    | Mi          | radimo | Mi radimo zajedno.      | We work together.        |
+    | Vi          | radite | Vi radite kod kuće.     | You work from home.      |
+    | Oni/One/Ona | rade   | Oni rade u kancelariji. | They work in the office. |
+    ---
+    ### Прошедшее время
+    | Лицо        | Форма  | Пример                     | Перевод                      |
+    | ----------- | ------ | -------------------------- | ---------------------------- |
+    | Ja          | radio  | Ja sam radio juče.         | I worked yesterday.          |
+    | Ti          | radio  | Ti si radio dobro.         | You worked well.             |
+    | On/Ona/Ono  | radila | Ona je radila sa timom.    | She worked with the team.    |
+    | Mi          | radili | Mi smo radili zajedno.     | We worked together.          |
+    | Vi          | radili | Vi ste radili na projektu. | You worked on the project.   |
+    | Oni/One/Ona | radili | Oni su radili dugo.        | They worked for a long time. |
+    ---
+    ### Будущее время
+    | Лицо        | Форма       | Пример                      | Перевод                       |
+    | ----------- | ----------- | --------------------------- | ----------------------------- |
+    | Ja          | ću raditi   | Ja ću raditi sutra.         | I will work tomorrow.         |
+    | Ti          | ćeš raditi  | Ti ćeš raditi večeras.      | You will work tonight.        |
+    | On/Ona/Ono  | će raditi   | On će raditi sa timom.      | He will work with the team.   |
+    | Mi          | ćemo raditi | Mi ćemo raditi zajedno.     | We will work together.        |
+    | Vi          | ćete raditi | Vi ćete raditi na projektu. | You will work on the project. |
+    | Oni/One/Ona | će raditi   | Oni će raditi prekovremeno. | They will work overtime.      |
+imati:
+  content: |
+    ## Иметь
+    ### Настоящее время
+    | Лицо        | Форма | Пример           | Перевод           |
+    | ----------- | ----- | ---------------- | ----------------- |
+    | Ja          | imam  | Ja imam auto.    | I have a car.     |
+    | Ti          | imaš  | Ti imaš kuću.    | You have a house. |
+    | On/Ona/Ono  | ima   | Ona ima psa.     | She has a dog.    |
+    | Mi          | imamo | Mi imamo mačku.  | We have a cat.    |
+    | Vi          | imate | Vi imate knjigu. | You have a book.  |
+    | Oni/One/Ona | imaju | Oni imaju novac. | They have money.  |
+    ---
+    ### Прошедшее время
+    | Лицо        | Форма  | Пример                       | Перевод                      |
+    | ----------- | ------ | ---------------------------- | ---------------------------- |
+    | Ja          | imah   | Ja imah ideju.               | I had an idea.               |
+    | Ti          | ima    | Ti ima prošlogodišnji model. | You had last year's model.   |
+    | On/Ona/Ono  | imade  | Ona imade sjajnu priliku.    | She had a great opportunity. |
+    | Mi          | imasmo | Mi imasmo dobru zabavu.      | We had a good time.          |
+    | Vi          | imaste | Vi imaste sreću.             | You had luck.                |
+    | Oni/One/Ona | imahu  | Oni imahu svoje šanse.       | They had their chances.      |
+    ---
+    ### Будущее время
+    | Лицо        | Форма      | Пример                            | Перевод                             |
+    | ----------- | ---------- | --------------------------------- | ----------------------------------- |
+    | Ja          | ću imati   | Ja ću imati vreme za to.          | I will have time for that.          |
+    | Ti          | ćeš imati  | Ti ćeš imati priliku da putuješ.  | You will have a chance to travel.   |
+    | On/Ona/Ono  | će imati   | Ona će imati novi posao.          | She will have a new job.            |
+    | Mi          | ćemo imati | Mi ćemo imati odmor iduće godine. | We will have a vacation next year.  |
+    | Vi          | ćete imati | Vi ćete imati veliki uspeh.       | You will have great success.        |
+    | Oni/One/Ona | će imati   | Oni će imati sjajne mogućnosti.   | They will have great opportunities. |
+    ---
