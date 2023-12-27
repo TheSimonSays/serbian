@@ -1,3 +1,16 @@
+biti:
+  content: |
+    ## Быть
+    |       	| местоимение       	| глагол 	| отрицание 	|
+    |-------	|-------------------	|--------	|-----------	|
+    | ед.ч. 	| Ja                	| sam    	| nisam     	|
+    |       	| Ti                	| si     	| nisi      	|
+    |       	| Vi                	| ste    	| niste     	|
+    |       	| On<br>Ona<br>Ono  	| je     	| nije      	|
+    | мн.ч. 	| Mi                	| smo    	| nismo     	|
+    |       	| Vi                	| ste    	| niste     	|
+    |       	| Oni<br>One<br>Ona 	| su     	| nisu      	|
+    ---
 raditi:
   content: |
     ## Работать
