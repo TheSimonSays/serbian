@@ -1,0 +1,196 @@
+raditi:
+  content: |
+    ## Работать
+    ### Настоящее время
+    | Лицо        | Форма  | Пример                  | Перевод                  |
+    | ----------- | ------ | ----------------------- | ------------------------ |
+    | Ja          | radim  | Ja radim ovde.          | I work here.             |
+    | Ti          | radiš  | Ti radiš dobro.         | You work well.           |
+    | On/Ona/Ono  | radi   | On radi sa ljudima.     | He works with people.    |
+    | Mi          | radimo | Mi radimo zajedno.      | We work together.        |
+    | Vi          | radite | Vi radite kod kuće.     | You work from home.      |
+    | Oni/One/Ona | rade   | Oni rade u kancelariji. | They work in the office. |
+    ---
+    ### Прошедшее время
+    | Лицо        | Форма  | Пример                     | Перевод                      |
+    | ----------- | ------ | -------------------------- | ---------------------------- |
+    | Ja          | radio  | Ja sam radio juče.         | I worked yesterday.          |
+    | Ti          | radio  | Ti si radio dobro.         | You worked well.             |
+    | On/Ona/Ono  | radila | Ona je radila sa timom.    | She worked with the team.    |
+    | Mi          | radili | Mi smo radili zajedno.     | We worked together.          |
+    | Vi          | radili | Vi ste radili na projektu. | You worked on the project.   |
+    | Oni/One/Ona | radili | Oni su radili dugo.        | They worked for a long time. |
+    ---
+    ### Будущее время
+    | Лицо        | Форма       | Пример                      | Перевод                       |
+    | ----------- | ----------- | --------------------------- | ----------------------------- |
+    | Ja          | ću raditi   | Ja ću raditi sutra.         | I will work tomorrow.         |
+    | Ti          | ćeš raditi  | Ti ćeš raditi večeras.      | You will work tonight.        |
+    | On/Ona/Ono  | će raditi   | On će raditi sa timom.      | He will work with the team.   |
+    | Mi          | ćemo raditi | Mi ćemo raditi zajedno.     | We will work together.        |
+    | Vi          | ćete raditi | Vi ćete raditi na projektu. | You will work on the project. |
+    | Oni/One/Ona | će raditi   | Oni će raditi prekovremeno. | They will work overtime.      |
+imati:
+  content: |
+    ## Иметь
+    ### Настоящее время
+    | Лицо        | Форма | Пример           | Перевод           |
+    | ----------- | ----- | ---------------- | ----------------- |
+    | Ja          | imam  | Ja imam auto.    | I have a car.     |
+    | Ti          | imaš  | Ti imaš kuću.    | You have a house. |
+    | On/Ona/Ono  | ima   | Ona ima psa.     | She has a dog.    |
+    | Mi          | imamo | Mi imamo mačku.  | We have a cat.    |
+    | Vi          | imate | Vi imate knjigu. | You have a book.  |
+    | Oni/One/Ona | imaju | Oni imaju novac. | They have money.  |
+    ---
+    ### Прошедшее время
+    | Лицо        | Форма  | Пример                       | Перевод                      |
+    | ----------- | ------ | ---------------------------- | ---------------------------- |
+    | Ja          | imah   | Ja imah ideju.               | I had an idea.               |
+    | Ti          | ima    | Ti ima prošlogodišnji model. | You had last year's model.   |
+    | On/Ona/Ono  | imade  | Ona imade sjajnu priliku.    | She had a great opportunity. |
+    | Mi          | imasmo | Mi imasmo dobru zabavu.      | We had a good time.          |
+    | Vi          | imaste | Vi imaste sreću.             | You had luck.                |
+    | Oni/One/Ona | imahu  | Oni imahu svoje šanse.       | They had their chances.      |
+    ---
+    ### Будущее время
+    | Лицо        | Форма      | Пример                            | Перевод                             |
+    | ----------- | ---------- | --------------------------------- | ----------------------------------- |
+    | Ja          | ću imati   | Ja ću imati vreme za to.          | I will have time for that.          |
+    | Ti          | ćeš imati  | Ti ćeš imati priliku da putuješ.  | You will have a chance to travel.   |
+    | On/Ona/Ono  | će imati   | Ona će imati novi posao.          | She will have a new job.            |
+    | Mi          | ćemo imati | Mi ćemo imati odmor iduće godine. | We will have a vacation next year.  |
+    | Vi          | ćete imati | Vi ćete imati veliki uspeh.       | You will have great success.        |
+    | Oni/One/Ona | će imati   | Oni će imati sjajne mogućnosti.   | They will have great opportunities. |
+    ---
+pricati:
+  content: |
+    ## Говорить
+    ### Настоящее время
+    | Лицо      | Форма      | Пример                        | Перевод                          |
+    |-----------|------------|-------------------------------|----------------------------------|
+    | Ja        | pričam     | Ja pričam o svom poslu.       | I talk about my job.             |
+    | Ti        | pričaš     | Ti pričaš o putovanjima.      | You talk about travels.          |
+    | On/Ona/Ono| priča      | On priča o knjigama.          | He talks about books.            |
+    | Mi        | pričamo    | Mi pričamo o budućnosti.      | We talk about the future.        |
+    | Vi        | pričate    | Vi pričate o vašim hobijima.  | You talk about your hobbies.     |
+    | Oni/One/Ona | pričaju | Oni pričaju o filmovima.      | They talk about movies.          |
+    ---
+    ### Прошедшее время
+    | Лицо      | Форма      | Пример                                | Перевод                              |
+    |-----------|------------|---------------------------------------|--------------------------------------|
+    | Ja        | pričao/pričala | Ja sam pričao o putovanjima.       | I talked about travels.              |
+    | Ti        | pričao/pričala | Ti si pričao o novim tehnologijama.| You talked about new technologies.   |
+    | On/Ona/Ono| pričao/pričala | Ona je pričala o umetnosti.        | She talked about art.                |
+    | Mi        | pričali/pričale | Mi smo pričali o prošlosti.        | We talked about the past.            |
+    | Vi        | pričali/pričale | Vi ste pričali o knjigama.        | You talked about books.              |
+    | Oni/One/Ona | pričali/pričale | Oni su pričali o sportu.        | They talked about sports.            |
+    ---
+    ### Будущее время
+    | Лицо      | Форма      | Пример                                  | Перевод                                        |
+    |-----------|------------|-----------------------------------------|------------------------------------------------|
+    | Ja        | će pričati | Ja ću pričati o svom putovanju.         | I will talk about my trip.                      |
+    | Ti        | ćeš pričati | Ti ćeš pričati o tvojim planovima.       | You will talk about your plans.                 |
+    | On/Ona/Ono| će pričati | On će pričati o svojoj karijeri.         | He will talk about his career.                  |
+    | Mi        | ćemo pričati| Mi ćemo pričati o našim iskustvima.     | We will talk about our experiences.             |
+    | Vi        | ćete pričati| Vi ćete pričati o svom hobiju.           | You will talk about your hobby.                 |
+    | Oni/One/Ona | će pričati| Oni će pričati o novim projektima.       | They will talk about new projects.              |
+jesti:
+  content: |
+    ## Есть (кушать)
+    ### Настоящее время
+    | Лицо      | Форма      | Пример                   | Перевод                           |
+    |-----------|------------|---------------------------|-----------------------------------|
+    | Ja        | jedem      | Ja jedem hleb.            | I eat bread.                      |
+    | Ti        | jedeš      | Ti jedeš voće.            | You eat fruit.                    |
+    | On/Ona/Ono| jede       | On jede meso.             | He eats meat.                     |
+    | Mi        | jedemo     | Mi jedemo zajedno.        | We eat together.                  |
+    | Vi        | jedete     | Vi jedete doručak.        | You eat breakfast.                |
+    | Oni/One/Ona | jedu    | Oni jedu povrće.         | They eat vegetables.              |
+    ---
+    ### Прошедшее время
+    | Лицо      | Форма      | Пример                        | Перевод                            |
+    |-----------|------------|-------------------------------|------------------------------------|
+    | Ja        | jeo/ela    | Ja sam jeo/ela voće.          | I ate fruit.                       |
+    | Ti        | jeo/ela    | Ti si jeo/ela hleb.           | You ate bread.                     |
+    | On/Ona/Ono| jeo/ela    | Ona jeo/ela meso.             | She ate meat.                      |
+    | Mi        | jeli/ele   | Mi smo jeli/ele zajedno.      | We ate together.                   |
+    | Vi        | jeli/ele   | Vi ste jeli/ele ribu.         | You ate fish.                      |
+    | Oni/One/Ona | jeli/ele | Oni su jeli/ele voće.        | They ate fruit.                    |
+    ---
+    ### Будущее время
+    | Лицо      | Форма      | Пример                                | Перевод                               |
+    |-----------|------------|---------------------------------------|---------------------------------------|
+    | Ja        | ću jesti  | Ja ću jesti voće.                     | I will eat fruit.                     |
+    | Ti        | ćeš jesti | Ti ćeš jesti povrće.                  | You will eat vegetables.              |
+    | On/Ona/Ono| će jesti  | On će jesti ribu.                     | He will eat fish.                     |
+    | Mi        | ćemo jesti| Mi ćemo jesti zajedno.                | We will eat together.                  |
+    | Vi        | ćete jesti| Vi ćete jesti sendvič.                | You will eat a sandwich.              |
+    | Oni/One/Ona | će jesti| Oni će jesti meso.                    | They will eat meat.                   |
+    ---
+voleti:
+  content: |
+    ## Любить
+    ### Настоящее время
+    | Лицо      | Форма      | Пример                         | Перевод                          |
+    |-----------|------------|--------------------------------|----------------------------------|
+    | Ja        | volim      | Ja volim knjige.               | I love books.                    |
+    | Ti        | voliš      | Ti voliš sport.                | You love sports.                 |
+    | On/Ona/Ono| voli       | On voli muziku.                | He loves music.                  |
+    | Mi        | volimo     | Mi volimo putovanja.           | We love traveling.               |
+    | Vi        | volite     | Vi volite filmove.             | You love movies.                 |
+    | Oni/One/Ona | vole    | Oni vole umetnost.            | They love art.                   |
+    ---
+    ### Прошедшее время
+    | Лицо      | Форма      | Пример                          | Перевод                          |
+    |-----------|------------|---------------------------------|----------------------------------|
+    | Ja        | voleo/la   | Ja sam voleo/la slikanje.       | I loved painting.                |
+    | Ti        | voleo/la   | Ti si voleo/la ples.            | You loved dancing.               |
+    | On/Ona/Ono| voleo/la   | Ona je volela kuhanje.          | She loved cooking.               |
+    | Mi        | voleli/e   | Mi smo voleli/e putovanja.      | We loved traveling.              |
+    | Vi        | voleli/e   | Vi ste voleli/e muziku.         | You loved music.                 |
+    | Oni/One/Ona | voleli/e | Oni su voleli/e knjige.        | They loved books.                |
+    ---
+    ### Будущее время
+    | Лицо      | Форма      | Пример                              | Перевод                                |
+    |-----------|------------|-------------------------------------|----------------------------------------|
+    | Ja        | ću voleti | Ja ću voleti umetnost.              | I will love art.                       |
+    | Ti        | ćeš voleti| Ti ćeš voleti sport.                | You will love sports.                  |
+    | On/Ona/Ono| će voleti  | On će voleti prirodu.               | He will love nature.                   |
+    | Mi        | ćemo voleti| Mi ćemo voleti muziku.             | We will love music.                    |
+    | Vi        | ćete voleti| Vi ćete voleti knjige.             | You will love books.                   |
+    | Oni/One/Ona | će voleti| Oni će voleti putovanja.           | They will love traveling.              |
+    ---
+živeti:
+  content: |
+    ## Жить
+    ### Настоящее время
+    | Лицо      | Форма      | Пример                             | Перевод                           |
+    |-----------|------------|-------------------------------------|-----------------------------------|
+    | Ja        | živim      | Ja živim u Beogradu.               | I live in Belgrade.               |
+    | Ti        | živiš      | Ti živiš sa porodicom.              | You live with family.             |
+    | On/Ona/Ono| živi       | On živi u centru grada.            | He lives in the city center.      |
+    | Mi        | živimo     | Mi živimo zajedno.                 | We live together.                 |
+    | Vi        | živite     | Vi živite blizu plaže.             | You live near the beach.          |
+    | Oni/One/Ona | žive    | Oni žive u mirnom kraju.          | They live in a peaceful area.     |
+    ---
+    ### Прошедшее время
+    | Лицо      | Форма      | Пример                               | Перевод                             |
+    |-----------|------------|--------------------------------------|-------------------------------------|
+    | Ja        | živeo/la   | Ja sam živeo/la u malom gradu.       | I lived in a small town.            |
+    | Ti        | živeo/la   | Ti si živeo/la u velikom gradu.      | You lived in a big city.            |
+    | On/Ona/Ono| živeo/la   | Ona je živela na selu.               | She lived in the countryside.       |
+    | Mi        | živeli/e   | Mi smo živeli/e u inostranstvu.      | We lived abroad.                    |
+    | Vi        | živeli/e   | Vi ste živeli/e u planinama.         | You lived in the mountains.         |
+    | Oni/One/Ona | živeli/e | Oni su živeli/e na obali.           | They lived on the coast.            |
+    ---
+    ### Будущее время
+    | Лицо      | Форма      | Пример                                  | Перевод                                   |
+    |-----------|------------|-----------------------------------------|-------------------------------------------|
+    | Ja        | ću živeti  | Ja ću živeti u gradu.                   | I will live in the city.                   |
+    | Ti        | ćeš živeti | Ti ćeš živeti sa prijateljima.           | You will live with friends.                |
+    | On/Ona/Ono| će živeti  | On će živeti u inostranstvu.            | He will live abroad.                       |
+    | Mi        | ćemo živeti| Mi ćemo živeti blizu mora.              | We will live close to the sea.            |
+    | Vi        | ćete živeti| Vi ćete živeti u planinama.             | You will live in the mountains.            |
+    | Oni/One/Ona | će živeti| Oni će živeti u mirnom okruženju.      | They will live in a peaceful environment.  |
+    ---

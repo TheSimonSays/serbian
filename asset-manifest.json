@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/serbian/static/css/main.a37a7e40.css",
-    "main.js": "/serbian/static/js/main.f7b83165.js",
+    "main.js": "/serbian/static/js/main.5759e992.js",
     "static/js/787.e60d3049.chunk.js": "/serbian/static/js/787.e60d3049.chunk.js",
-    "static/media/verbs.yml": "/serbian/static/media/verbs.f6d5bfec35a85e026c63.yml",
+    "static/media/verbs.yml": "/serbian/static/media/verbs.135d4a56c93be95050e2.yml",
     "index.html": "/serbian/index.html",
     "main.a37a7e40.css.map": "/serbian/static/css/main.a37a7e40.css.map",
-    "main.f7b83165.js.map": "/serbian/static/js/main.f7b83165.js.map",
+    "main.5759e992.js.map": "/serbian/static/js/main.5759e992.js.map",
     "787.e60d3049.chunk.js.map": "/serbian/static/js/787.e60d3049.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a37a7e40.css",
-    "static/js/main.f7b83165.js"
+    "static/js/main.5759e992.js"
   ]
 }
